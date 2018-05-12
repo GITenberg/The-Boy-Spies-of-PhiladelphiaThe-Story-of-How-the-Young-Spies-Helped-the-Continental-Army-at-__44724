@@ -1,0 +1,39 @@
+_repo: The-Boy-Spies-of-PhiladelphiaThe-Story-of-How-the-Young-Spies-Helped-the-Continental-Army-at-__44724
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Graves, George E.
+    alias: Graves, G. E.
+    gutenberg_agent_id: '38734'
+    url: http://www.gutenberg.org/2009/agents/38734
+covers:
+- cover_type: archival
+  image_path: 44724-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2014-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Spies -- Juvenile fiction'
+- !lcsh 'Spy stories'
+- !lcsh 'Children''s stories'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Washington, George, 1732-1799 -- Juvenile fiction'
+title: 'The Boy Spies of Philadelphia
+
+  The Story of How the Young Spies Helped the Continental Army at Valley Forge'
+url: http://www.gutenberg.org/ebooks/44724
